@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Windol">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alex Manoel Ferreira Silva" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- Typing SVG by Windol - https://github.com/Windol/readme-typing-svg -->
@@ -32,10 +32,10 @@
 <!-- Badges with custom icons - https://github.com/Windol/custom-icon-badges -->
 <!-- View counter - https://github.com/Windol/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <!-- <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a> -->
+  <!-- <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
   <a href="https://github.com/Windol?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Windol?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Windol?tab=followers">
@@ -47,34 +47,34 @@
 <br/>
 
 <!-- GitHub Star link -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://stars.github.com/profiles/windol/">
     <img src="https://github.com/Windol/Windol/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
+</p> -->
 
-<details open> 
+<!-- <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
 
   <table>
     <tr>
-      <!-- <th>$10+/month</th> -->
+      < !-- <th>$10+/month</th> -- >
       <th>$5+/month</th>
     </tr>
     <tr>
-      <!-- $10+/month -->
-      <!-- <td>
+      < !-- $10+/month -- >
+      < !-- <td>
         <div align="center">
           <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/username"><b>Full Name</b></a>
         </b>
-      </td> -->
-      <!-- $5+/month -->
+      </td> -- >
+      < !-- $5+/month -- >
       <td>
         <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
       </td>
     </tr>
-  </table>
+  </table> -->
 
   <a href="https://github.com/sponsors/Windol/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
