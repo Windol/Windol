@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by Windol - https://github.com/Windol/readme-typing-svg -->
   <a href="https://github.com/Windol/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20desktop,%20web%20and%20app%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20desktop,%20web%20and%20app%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=00ff00&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
