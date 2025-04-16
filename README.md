@@ -1,3 +1,5 @@
+# Alex Manoel Ferreira Silva
+
 <!-- <p align="center">
   <a href="https://github.com/Windol">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alex Manoel Ferreira Silva" /></a>
@@ -45,6 +47,28 @@
 </p>
 
 <br/>
+
+Desenvolvedor de software com sólida experiência em projetos de hardware e software. Atualmente, atuo como Gerente de Projetos na Legytma Soluções Inteligentes, localizada em Goianésia, Goiás, Brasil. Minha trajetória profissional é marcada por iniciativas autônomas e contribuições significativas em diversas áreas da tecnologia.&#8203;:contentReference[oaicite:2]{index=2}
+
+## Habilidades Principais
+
+- **Linguagens de Programação:** :contentReference[oaicite:3]{index=3}
+- **Frameworks e Bibliotecas:** :contentReference[oaicite:4]{index=4}
+- **Ferramentas e Tecnologias:** :contentReference[oaicite:5]{index=5}
+- **Metodologias Ágeis:** :contentReference[oaicite:6]{index=6}
+- **Desenvolvimento de Hardware:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+
+## Contato
+
+- **GitHub:** [github.com/windol](https://github.com/windol)
+- **LinkedIn:** [linkedin.com/in/windol](https://linkedin.com/in/windol)
+- **Website:** [legytma.com.br](http://legytma.com.br)
+
+:contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}
+
+---
+
+:contentReference[oaicite:12]{index=12}
 
 <!-- GitHub Star link -->
 <!-- <p align="center">
