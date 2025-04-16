@@ -1,4 +1,9 @@
-# Alex Manoel Ferreira Silva
+---
+layout: default
+title: Perfil - Windol
+---
+
+# Alex Manoel Ferreira Silva (Windol)
 
 <!-- <p align="center">
   <a href="https://github.com/Windol">
@@ -48,27 +53,38 @@
 
 <br/>
 
-Desenvolvedor de software com sólida experiência em projetos de hardware e software. Atualmente, atuo como Gerente de Projetos na Legytma Soluções Inteligentes, localizada em Goianésia, Goiás, Brasil. Minha trajetória profissional é marcada por iniciativas autônomas e contribuições significativas em diversas áreas da tecnologia.&#8203;:contentReference[oaicite:2]{index=2}
+Sou um desenvolvedor e gerente de projetos com experiência abrangente na criação e implementação de soluções inovadoras em software e hardware. Minha trajetória profissional está marcada pela busca constante de excelência, utilizando metodologias ágeis e tecnologias modernas para desenvolver produtos de alta performance e escalabilidade.
 
 ## Habilidades Principais
 
-- **Linguagens de Programação:** :contentReference[oaicite:3]{index=3}
-- **Frameworks e Bibliotecas:** :contentReference[oaicite:4]{index=4}
-- **Ferramentas e Tecnologias:** :contentReference[oaicite:5]{index=5}
-- **Metodologias Ágeis:** :contentReference[oaicite:6]{index=6}
-- **Desenvolvimento de Hardware:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+### Linguagens de Programação
+- **Java:** Desenvolvimento de aplicações robustas e escaláveis, utilizando boas práticas de orientação a objetos e frameworks como Spring Boot.
+- **Kotlin:** Focado tanto no desenvolvimento Android quanto em aplicações server-side, permitindo a criação de soluções seguras e modernas.
+- **Python:** Utilizado para automação de tarefas, criação de scripts e análise de dados, contribuindo para a eficiência nos processos.
+- **JavaScript / TypeScript:** Desenvolvimento de interfaces web dinâmicas e responsivas, integrando APIs e frameworks de front-end modernos.
+
+### Frameworks e Bibliotecas
+- **Spring Boot:** Criação de APIs e micro-serviços com foco em performance e segurança.
+- **React:** Desenvolvimento de interfaces de usuário interativas e com forte ênfase na experiência do usuário.
+- **Angular:** Implementação de aplicações web complexas, estruturadas e modulares, facilitando a manutenção e evolução dos projetos.
+
+### Ferramentas e Tecnologias
+- **Git:** Controle de versões com ênfase na colaboração e integração contínua.
+- **Docker:** Contêinerização de aplicações, assegurando ambientes de desenvolvimento consistentes e simplificando a implantação.
+- **Jenkins:** Automatização de pipelines de integração e entrega contínua (CI/CD) para otimizar os processos de desenvolvimento.
+- **Kubernetes:** Orquestração de contêineres, garantindo uma gestão eficiente dos recursos em ambientes de produção.
+
+### Metodologias Ágeis
+- **Scrum e Kanban:** Aplicação de práticas ágeis para o gerenciamento de projetos, promovendo colaboração, eficiência e entrega contínua de valor.
+
+### Desenvolvimento de Hardware
+- Integração de sistemas de hardware e software para a criação de soluções que atendam às demandas de inovação tecnológica.
 
 ## Contato
 
-- **GitHub:** [github.com/windol](https://github.com/windol)
-- **LinkedIn:** [linkedin.com/in/windol](https://linkedin.com/in/windol)
-- **Website:** [legytma.com.br](http://legytma.com.br)
-
-:contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}&#8203;:contentReference[oaicite:11]{index=11}
-
----
-
-:contentReference[oaicite:12]{index=12}
+- <i class="fab fa-github"></i> [GitHub](https://github.com/windol)
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/windol)
+- <i class="fab fa-whatsapp"></i> [WhatsApp](https://wa.me/5562992969758)
 
 <!-- GitHub Star link -->
 <!-- <p align="center">
