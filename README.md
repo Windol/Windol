@@ -53,32 +53,37 @@ title: Perfil - Windol
 
 <br/>
 
-Sou um desenvolvedor e gerente de projetos com experiência abrangente na criação e implementação de soluções inovadoras em software e hardware. Minha trajetória profissional está marcada pela busca constante de excelência, utilizando metodologias ágeis e tecnologias modernas para desenvolver produtos de alta performance e escalabilidade.
+Sou desenvolvedor e gerente de projetos com sólida experiência na criação e implementação de soluções inovadoras em software e hardware. Minha trajetória profissional enfatiza a excelência na entrega de soluções escaláveis, integrando sistemas com foco em automação e na utilização de metodologias ágeis para uma gestão eficaz dos projetos.
 
 ## Habilidades Principais
 
 ### Linguagens de Programação
-- **Java:** Desenvolvimento de aplicações robustas e escaláveis, utilizando boas práticas de orientação a objetos e frameworks como Spring Boot.
-- **Kotlin:** Focado tanto no desenvolvimento Android quanto em aplicações server-side, permitindo a criação de soluções seguras e modernas.
-- **Python:** Utilizado para automação de tarefas, criação de scripts e análise de dados, contribuindo para a eficiência nos processos.
-- **JavaScript / TypeScript:** Desenvolvimento de interfaces web dinâmicas e responsivas, integrando APIs e frameworks de front-end modernos.
+- **Delphi:** Desenvolvimento de aplicações desktop robustas e eficientes, com foco em performance e usabilidade.
+- **C e C++:** Criação de sistemas de alto desempenho, aplicações embarcadas e integração com hardware.
+- **Java:** Desenvolvimento de aplicações corporativas e microserviços, aplicando boas práticas de orientação a objetos e frameworks como Spring Boot.
+- **Kotlin:** Desenvolvimento de soluções mobile e server-side com ênfase em segurança, performance e manutenibilidade.
+- **Python:** Automação de tarefas e criação de scripts para análise de dados e resolução de problemas.
+- **JavaScript / TypeScript:** Desenvolvimento de interfaces web dinâmicas e responsivas para integração com APIs e sistemas modernos.
+- **Dart:** Utilização em conjunto com Flutter para desenvolvimento de aplicações mobile e cross-platform, com foco em design moderno e experiência consistente para o usuário.
 
 ### Frameworks e Bibliotecas
-- **Spring Boot:** Criação de APIs e micro-serviços com foco em performance e segurança.
-- **React:** Desenvolvimento de interfaces de usuário interativas e com forte ênfase na experiência do usuário.
-- **Angular:** Implementação de aplicações web complexas, estruturadas e modulares, facilitando a manutenção e evolução dos projetos.
+- **Spring Boot:** Desenvolvimento de APIs REST e microserviços com foco em escalabilidade e segurança.
+- **Flutter:** Criação de interfaces e fluxos mobile eficientes, proporcionando experiências ricas e responsivas.
 
 ### Ferramentas e Tecnologias
-- **Git:** Controle de versões com ênfase na colaboração e integração contínua.
-- **Docker:** Contêinerização de aplicações, assegurando ambientes de desenvolvimento consistentes e simplificando a implantação.
-- **Jenkins:** Automatização de pipelines de integração e entrega contínua (CI/CD) para otimizar os processos de desenvolvimento.
-- **Kubernetes:** Orquestração de contêineres, garantindo uma gestão eficiente dos recursos em ambientes de produção.
+- **Git:** Controle de versões colaborativo, garantindo a rastreabilidade e integridade do código.
+- **Docker:** Contêinerização de aplicações para assegurar consistência entre os ambientes de desenvolvimento, teste e produção.
+- **Kubernetes:** Orquestração de contêineres para uma gestão eficiente de recursos em ambientes de produção.
+- **VSCode:** Ambiente de desenvolvimento moderno, personalizável e integrado para diversas linguagens.
+- **Cursor:** Ferramenta que potencializa a produtividade com recursos avançados de edição e navegação.
+- **IDEs Especializadas:** Uso de ferramentas específicas para Delphi, C/C++ e desenvolvimento mobile, aprimorando o ciclo de desenvolvimento.
 
-### Metodologias Ágeis
-- **Scrum e Kanban:** Aplicação de práticas ágeis para o gerenciamento de projetos, promovendo colaboração, eficiência e entrega contínua de valor.
+### Metodologias Ágeis e Gerenciais
+- **Scrum e Kanban:** Implementação de práticas ágeis para promover colaboração, transparência e entrega contínua de valor.
+- **Gestão de Projetos:** Planejamento estratégico e coordenação entre equipes multidisciplinares para garantir a excelência na execução dos projetos.
 
-### Desenvolvimento de Hardware
-- Integração de sistemas de hardware e software para a criação de soluções que atendam às demandas de inovação tecnológica.
+### Integração de Hardware e Software
+- **Desenvolvimento de Soluções Embarcadas:** Projeto e implementação de sistemas que integram hardware e software, atendendo a demandas de inovação tecnológica e automação industrial.
 
 ## Contato
 
