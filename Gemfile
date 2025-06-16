@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-target-blank"
   gem "jekyll-seo-tag"
   gem "jekyll-avatar"
+  gem "jekyll-remote-theme"
 end
 
 # Add these gems to silence Ruby 3.4.0 warnings

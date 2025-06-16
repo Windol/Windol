@@ -28,7 +28,7 @@ description              : >-
   Sou desenvolvedor e gerente de projetos com sólida experiência na criação e implementação de soluções inovadoras em software e hardware. Minha trajetória profissional enfatiza a excelência na entrega de soluções escaláveis, integrando sistemas com foco em automação e na utilização de metodologias ágeis para uma gestão eficaz dos projetos.
 
 # Theme Settings
-theme                   : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.27.1"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 url                      : "" # the base hostname & protocol for your site, e.g. http://example.com
