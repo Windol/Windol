@@ -1,0 +1,19 @@
+@use "sass:color";
+
+// Override link colors
+a {
+    &:hover {
+        color: color.adjust($brand-color, $lightness: -15%);
+    }
+}
+
+// Override post meta colors
+.post-meta {
+    color: color.adjust($text-color, $lightness: 18%);
+
+    a {
+        &:hover {
+            background-color: color.adjust($grey-color-light, $lightness: 6%);
+        }
+    }
+}

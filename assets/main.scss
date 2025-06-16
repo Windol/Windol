@@ -1,0 +1,9 @@
+@use "sass:color";
+@use "minima" as *;
+
+// Override theme variables with modern color functions
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark: color.adjust($grey-color, $lightness: -25%);
+
+// Import custom styles
+@use "custom";

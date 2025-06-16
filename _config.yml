@@ -18,35 +18,236 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Manoel Ferreira Silva (Windol)
-email: windol@legytma.com.br
-description: >- # this means to ignore newlines until "baseurl:"
+# Site Settings
+locale                   : "pt-BR"
+title                    : "Alex Manoel Ferreira Silva (Windol)"
+title_separator          : "|"
+subtitle                 : "Full-stack Developer"
+name                     : "Windol"
+description              : >-
   Sou desenvolvedor e gerente de projetos com sólida experiência na criação e implementação de soluções inovadoras em software e hardware. Minha trajetória profissional enfatiza a excelência na entrega de soluções escaláveis, integrando sistemas com foco em automação e na utilização de metodologias ágeis para uma gestão eficaz dos projetos.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: windol
 
-# Build settings
-theme: minima
+# Theme Settings
+theme                   : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+url                      : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl                  : "" # the subpath of your site, e.g. /blog
+repository               : "Windol/Windol"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/logo.png"
+masthead_title          : "Alex Manoel Ferreira Silva"
+breadcrumbs              : true # true, false (default)
+words_per_minute        : 200
+comments:
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term          : # "pathname" (default), "url", "title", "og:title"
+  giscus:
+    repo                 : # e.g. username/repo
+    repo_id             : # e.g. R_kgDOGl2mGA
+    category            : # e.g. Announcements
+    category_id         : # e.g. DIC_kwDOGl2mGM4CQKWM
+    mapping             : # e.g. pathname
+    reactions_enabled   : # 1 (default) or 0
+    emit_metadata       : # 1 (default) or 0
+    input_position      : # "bottom" (default) or "top"
+    theme               : # "light" (default), "light_high_contrast", "light_protanopia", "dark", "dark_high_contrast", "dark_protanopia", "dark_dimmed", "transparent_dark"
+    lang                : # "en" (default)
+    loading             : # "lazy" (default) or "eager"
+  staticman:
+    branch              : # "master"
+    endpoint            : # "https://{your Staticman v3 API}/v3/entry/github/"
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid               : # 123456789
+    num_posts           : # 5 (default)
+    colorscheme         : # "light" (default), "dark"
+
+# Site Author
+author:
+  name             : "Alex Manoel Ferreira Silva"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Full-stack desktop, web and app developer with 15+ years of coding experience"
+  location         : "Goiânia, GO, Brazil"
+  email            : "contato@legytma.com.br"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contato@legytma.com.br"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://legytma.com.br"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Windol"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/windol"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://wa.me/5562992969758"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/Windol"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/users/200425465427525632"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Windol"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/windol"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contato@legytma.com.br"
+
+# Reading Files
+include:
+  - _pages
+  - _posts
+  - _drafts
+  - _data
+  - assets/images
+  - assets/js
+  - assets/css
+  - assets/fonts
+  - assets/pdf
+  - .well-known
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - robots.txt
+  - sitemap.xml
+  - .htaccess
+  - 404.html
+  - feed.xml
+
+# Collections
+collections:
+  # docs:
+  #   output: true
+  #   permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _drafts
+  - scope:
+      path: "_drafts"
+      type: drafts
+    values:
+      layout: single
+      author_profile: true
+  # _pages/home.md
+  - scope:
+      path: "_pages/home.md"
+      type: pages
+    values:
+      layout: home
+      author_profile: true
+  # _pages/about.md
+  - scope:
+      path: "_pages/about.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+  # _pages/category-archive.md
+  - scope:
+      path: "_pages/category-archive.md"
+      type: pages
+    values:
+      layout: categories
+      author_profile: true
+  # _pages/tag-archive.md
+  - scope:
+      path: "_pages/tag-archive.md"
+      type: pages
+    values:
+      layout: tags
+      author_profile: true
+  # _pages/terms.md
+  - scope:
+      path: "_pages/terms.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+  # _pages/privacy-policy.md
+  - scope:
+      path: "_pages/privacy-policy.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
+# _config.yml
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+  - jekyll-target-blank
+  - jekyll-seo-tag
+  - jekyll-avatar
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# HTML Compression
+compress_html:
+  clippings: all
+  blanklines: false
+  ignore:
+    envs: [development]
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .github/
+  - .vscode/
+  - .devcontainer/
+  - .ruby-lsp/
